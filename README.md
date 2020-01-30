@@ -1,0 +1,1 @@
+## Webpack boilerplate to create JS/TS plugins
